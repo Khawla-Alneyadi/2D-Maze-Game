@@ -29,15 +29,4 @@ How to Play:
 3. Collect at least **one yellow power-up** before reaching the **red goal**.
 4. Beat all **5 levels** within the time limits to win!
 
-Project Structure:
-2D-Maze-Game/
-├── 2D Maze.py # Main Python code
-├── report/
-│ └── CSBP421 - Project Report.docx
-├── presentation/
-│ └── Smart Computer Graphics Presentation.pptx
-├── requirements.txt # Dependencies
-├── .gitignore
-└── README.md
-
 
