@@ -1,4 +1,4 @@
-2D Maze Game:
+# 2D Maze Game
 An interactive 2D maze game developed in Python, combining fun gameplay with smart computer graphics concepts.  
 This project was created as part of the **Smart Computer Graphics (CSBP421)** course.
 
